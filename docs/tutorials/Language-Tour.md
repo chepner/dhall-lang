@@ -457,7 +457,7 @@ there is no maximum value for either type.
 > that is out of the valid range for a double-precision floating point number?
 >
 > ```dhall
-> ⊢ '1e10000'
+> ⊢ 1e10000
 > ```
 >
 > Run the above command to find out!
